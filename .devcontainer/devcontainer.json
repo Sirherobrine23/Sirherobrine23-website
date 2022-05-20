@@ -42,6 +42,8 @@
 		"ms-azuretools.vscode-docker",
 		"chrmarti.regex",
 		"quicktype.quicktype",
-		"euskadi31.json-pretty-printer"
+		"euskadi31.json-pretty-printer",
+		"formulahendry.github-actions",
+		"cschleiden.vscode-github-actions"
 	]
 }

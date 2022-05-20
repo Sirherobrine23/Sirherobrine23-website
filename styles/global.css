@@ -1,0 +1,29 @@
+/* Fix navbar body */
+body {
+  padding: 0;
+  padding-top: 30px;
+  margin: 0;
+}
+
+.container {
+  margin: 15px;
+  padding-top: 2vw;
+  height: 82vh;
+  width: 98vw;
+  left: 0;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+/* Light mode */
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: white;
+    color: black;
+  }
+}
